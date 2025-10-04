@@ -1,7 +1,7 @@
 # Build outputs
-#Release/
-#Debug/
-#x64/
+Release/
+Debug/
+x64/
 
 # Visual Studio user settings
 *.vcxproj.user
