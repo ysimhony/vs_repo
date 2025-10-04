@@ -1,0 +1,30 @@
+# Build outputs
+#Release/
+#Debug/
+#x64/
+
+# Visual Studio user settings
+*.vcxproj.user
+*.vcproj.*.user
+*.opensdf
+*.sdf
+*.suo
+*.ncb
+
+# Backup & cache
+*.log
+*.tlog
+*.cache
+*.db
+*.idb
+*.ipch
+
+# RDI project specific
+rdi.ncb
+rdi.suo
+rdi.sdf
+rdi.opensdf
+
+# Visual Studio auto-generated folders
+.vs/
+
